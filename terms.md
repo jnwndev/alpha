@@ -2,17 +2,6 @@
 
 **Effective Date:** 20 September 2026
 
----
-
-layout: page
-title: "Terms of Service"
-permalink: /terms/
-------------------
-
-# Terms of Service
-
-**Effective Date:** 20 September 2026
-
 These Terms of Service govern your use of **P1 Alpha** (“the Bot”), operated by **jjxn2** (“we”, “us”, or “our”).
 
 By adding, accessing, or using the Bot, you agree to these Terms.
@@ -125,4 +114,3 @@ Continued use of the Bot after an updated version becomes effective constitutes 
 ## 12. Contact
 
 **Contact:** [p1alpha.bot@gmail.com](mailto:p1alpha.bot@gmail.com)
-**Operator:** jjxn2
