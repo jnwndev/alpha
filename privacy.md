@@ -1,3 +1,8 @@
+---
+title: "Privacy Policy"
+permalink: /privacy/
+---
+
 # Privacy Policy
 
 **Effective Date:** 20 September 2026
