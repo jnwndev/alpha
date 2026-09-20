@@ -1,3 +1,8 @@
+---
+title: "Terms of Service"
+permalink: /terms/
+---
+
 # Terms of Service
 
 **Effective Date:** 20 September 2026
